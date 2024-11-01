@@ -1,0 +1,24 @@
+{
+  "name": "palikhebackend",
+  "version": "1.0.0",
+  "description": "Palikhe Family Tree backend by Bidur Palikhe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beeefar/PalikheFamilyTreeBackEnd.git"
+  },
+  "author": "Bidur Palikhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beeefar/PalikheFamilyTreeBackEnd/issues"
+  },
+  "homepage": "https://github.com/Beeefar/PalikheFamilyTreeBackEnd#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
